@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Live_News_App
 
 ## Project Description
